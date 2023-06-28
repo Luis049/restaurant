@@ -14,9 +14,9 @@ La aplicación del Restaurante Moderno es una solución innovadora que combina l
 
 ## Capturas de pantalla
 Aquí se muestran las capturas de pantalla de la página web en la versión de escritorio:
-![Desktop1](./src/assets/screenshots/Desktop1.PNG) 
-![Desktop1](./src/assets/screenshots/Desktop2.PNG) 
-![Desktop1](./src/assets/screenshots/Desktop3.PNG) 
+![Desktop1](./src/assets/screenshots/Desktop1.png) 
+![Desktop1](./src/assets/screenshots/Desktop2.png) 
+![Desktop1](./src/assets/screenshots/Desktop3.png) 
 
 
 ## Empezando
